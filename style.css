@@ -1,0 +1,101 @@
+body {
+    background-color: #19191a;
+}
+
+#biografia {
+    background-color: #4d1b16;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Slabo 27px", serif;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+h1 {
+    margin-left: 5%;
+    color: blanchedalmond;
+    font-family: "Merienda", cursive;
+}
+#biografia img {
+    height: 400px;
+    width: 400px;
+    margin-left: 25px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+
+h2 {
+    font-family: "Slabo 27px", serif;
+    margin-left: 5%;
+    color: blanchedalmond;
+    font-size: 25px;
+}
+
+.background img{
+    height: 500px;
+    width: 300px;
+    position: absolute;
+    left: 230px;
+    top: 1025px;
+}
+#backgroundd img {
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    left: 130px;
+    top: 952px;
+    
+}
+.background {
+    background-color: black;
+    height: 720px;
+    width: 1000px;
+    margin-left: 120px;
+
+}
+
+.background p {
+    color: aliceblue;
+    margin-left: 800px;
+    margin-right: 50px;
+    font-size: 20px;
+    top: 20%;
+}
+
+.background h3 {
+    color: aliceblue;
+    margin-left: 1250px;
+    margin-right: 50px;
+    font-size: 30px;
+    top: 20%;
+}
+
+.info {
+    position: relative;
+    top: 15%;
+    right: 50px;
+    text-align: center;
+}
+.info h3 {
+    margin-left: 560px;
+}
+
+.info p {
+    margin-left: 56%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+li {
+    font-size: 20px;
+    color: aliceblue;
+}
+.Copyright {
+    background-color: rgb(117, 34, 4);
+    color: white;
+    font-size: 13px;
+}
+
+#Cuentos {
+    color: blanchedalmond;
+    font-family: "Slabo 27px", serif;
+}
