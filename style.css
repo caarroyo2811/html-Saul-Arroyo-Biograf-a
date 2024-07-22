@@ -1,9 +1,6 @@
-.resolución {
-    width: 99%;
-    text-align: center;
-}
 
-@media (max-width:800px) {
+
+@media (max-width:767px) {
 
     .desktop {
         display: none;
