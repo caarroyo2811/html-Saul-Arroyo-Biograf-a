@@ -20,6 +20,10 @@ h1 {
     padding: 20px;
     max-width: 800px;
     box-sizing: border-box;
+    
+}
+#biografia p, h3 {
+    color: whitesmoke;
 }
 
 #biografia img {
