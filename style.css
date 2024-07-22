@@ -1,4 +1,9 @@
-@media (max-width:767px) {
+.resolución {
+    width: 99%;
+    text-align: center;
+}
+
+@media (max-width:325px) {
 
     .desktop {
         display: none;
@@ -225,7 +230,6 @@
 
 @media (min-width:991px) {
 
-    }
     .tablet {
         display: none;
     }
@@ -334,5 +338,4 @@
         color: blanchedalmond;
         font-family: "Slabo 27px", serif;
     }
-        
-}
+}        
